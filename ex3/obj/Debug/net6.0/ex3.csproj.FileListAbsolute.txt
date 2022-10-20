@@ -1,0 +1,15 @@
+/Users/User/Desktop/C++/hw2/ex3/obj/Debug/net6.0/ex3.csproj.AssemblyReference.cache
+/Users/User/Desktop/C++/hw2/ex3/obj/Debug/net6.0/ex3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/User/Desktop/C++/hw2/ex3/obj/Debug/net6.0/ex3.AssemblyInfoInputs.cache
+/Users/User/Desktop/C++/hw2/ex3/obj/Debug/net6.0/ex3.AssemblyInfo.cs
+/Users/User/Desktop/C++/hw2/ex3/obj/Debug/net6.0/ex3.csproj.CoreCompileInputs.cache
+/Users/User/Desktop/C++/hw2/ex3/bin/Debug/net6.0/ex3
+/Users/User/Desktop/C++/hw2/ex3/bin/Debug/net6.0/ex3.deps.json
+/Users/User/Desktop/C++/hw2/ex3/bin/Debug/net6.0/ex3.runtimeconfig.json
+/Users/User/Desktop/C++/hw2/ex3/bin/Debug/net6.0/ex3.dll
+/Users/User/Desktop/C++/hw2/ex3/bin/Debug/net6.0/ex3.pdb
+/Users/User/Desktop/C++/hw2/ex3/obj/Debug/net6.0/ex3.dll
+/Users/User/Desktop/C++/hw2/ex3/obj/Debug/net6.0/refint/ex3.dll
+/Users/User/Desktop/C++/hw2/ex3/obj/Debug/net6.0/ex3.pdb
+/Users/User/Desktop/C++/hw2/ex3/obj/Debug/net6.0/ex3.genruntimeconfig.cache
+/Users/User/Desktop/C++/hw2/ex3/obj/Debug/net6.0/ref/ex3.dll
