@@ -1,0 +1,15 @@
+/Users/User/Desktop/C++/hw2/ex4/obj/Debug/net6.0/ex4.csproj.AssemblyReference.cache
+/Users/User/Desktop/C++/hw2/ex4/obj/Debug/net6.0/ex4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/User/Desktop/C++/hw2/ex4/obj/Debug/net6.0/ex4.AssemblyInfoInputs.cache
+/Users/User/Desktop/C++/hw2/ex4/obj/Debug/net6.0/ex4.AssemblyInfo.cs
+/Users/User/Desktop/C++/hw2/ex4/obj/Debug/net6.0/ex4.csproj.CoreCompileInputs.cache
+/Users/User/Desktop/C++/hw2/ex4/bin/Debug/net6.0/ex4
+/Users/User/Desktop/C++/hw2/ex4/bin/Debug/net6.0/ex4.deps.json
+/Users/User/Desktop/C++/hw2/ex4/bin/Debug/net6.0/ex4.runtimeconfig.json
+/Users/User/Desktop/C++/hw2/ex4/bin/Debug/net6.0/ex4.dll
+/Users/User/Desktop/C++/hw2/ex4/bin/Debug/net6.0/ex4.pdb
+/Users/User/Desktop/C++/hw2/ex4/obj/Debug/net6.0/ex4.dll
+/Users/User/Desktop/C++/hw2/ex4/obj/Debug/net6.0/refint/ex4.dll
+/Users/User/Desktop/C++/hw2/ex4/obj/Debug/net6.0/ex4.pdb
+/Users/User/Desktop/C++/hw2/ex4/obj/Debug/net6.0/ex4.genruntimeconfig.cache
+/Users/User/Desktop/C++/hw2/ex4/obj/Debug/net6.0/ref/ex4.dll
